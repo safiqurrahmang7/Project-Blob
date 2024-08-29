@@ -26,4 +26,3 @@ class Blob:
         elif self.y > self.y_boundary: self.y = self.y_boundary
 
 
-#amking the changed
