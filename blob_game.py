@@ -56,6 +56,7 @@ def main():
         environment([blue_blobs,red_blobs,green_blobs])
         clock.tick(60)
         
+        
 
 if __name__ == '__main__':
     main()
