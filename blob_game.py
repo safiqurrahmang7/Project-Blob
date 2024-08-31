@@ -15,6 +15,7 @@ pygame.display.set_caption("Blob: The BAll")
 clock = pygame.time.Clock()
 
 
+
 class Blue_blob(Blob):
 
     def __init__(self,color,x_boundary,y_boundary,size):
